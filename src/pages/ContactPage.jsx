@@ -1,8 +1,8 @@
 const ContactPage = () => {
     return (
         <div>
-            <h1>Mode sliping</h1>
-            <p>Plese don't contact me </p>
+            <h1>Mode sleeping</h1>
+            <p>Please don't contact me </p>
 
         </div>
 
